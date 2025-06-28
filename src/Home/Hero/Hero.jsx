@@ -3,8 +3,8 @@ import myImage from "../../assets/myPic.jpg"; // Replace with your image
 
 const Hero = () => {
   return (
-    <div className="hero w-full mt-8">
-      <div className="hero-content flex-col lg:flex-row-reverse gap-10 shadow-xl rounded-2xl">
+    <div className="hero w-full rounded-2xl shadow-xl mt-8">
+      <div className="hero-content flex-col lg:flex-row-reverse gap-10  ">
         {/* Right Side - Image */}
         <div className="w-full lg:w-1/2 flex justify-center">
           <img

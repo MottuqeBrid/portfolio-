@@ -2,12 +2,12 @@ import React from "react";
 
 const Education = () => {
   return (
-    <div className="py-16 bg-base-100 text-base-content px-4 md:px-10">
+    <div className="py-16 bg-base-100 text-base-content  md:px-10">
       <h2 className="text-3xl font-bold text-primary text-center mb-10">
         Education
       </h2>
 
-      <div className="max-w-4xl mx-auto">
+      <div className="max-w-4xl mx-auto ">
         <div className="border-l-4 border-primary pl-6 relative">
           {/* Timeline dot */}
           <div className="absolute -left-2 top-2 w-4 h-4 bg-primary rounded-full shadow-md"></div>

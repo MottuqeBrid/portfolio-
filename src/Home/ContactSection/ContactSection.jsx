@@ -3,10 +3,7 @@ import { Mail, Phone, Github, Linkedin, MessageCircle } from "lucide-react";
 
 const ContactSection = () => {
   return (
-    <section
-      id="contact"
-      className="py-16 bg-base-100 text-base-content px-4 md:px-10"
-    >
+    <section id="contact" className="py-16 bg-base-100 text-base-content ">
       <h2 className="text-3xl font-bold text-primary text-center mb-12">
         Contact Me
       </h2>

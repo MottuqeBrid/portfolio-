@@ -9,7 +9,7 @@ import ContactSection from "../ContactSection/ContactSection";
 
 const HomePage = () => {
   return (
-    <div className="space-y-8">
+    <div className="space-y-8 w-full">
       <Hero />
       <AboutMe />
       <SkillsSection />
